@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignInGoogle</string>
+    <string name="title_activity_g_account">gAccount</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129636501892",
+    "project_id": "positive-tempo-161310"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129636501892:android:e39893d76301e4a0",
+        "android_client_info": {
+          "package_name": "com.jos.signingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129636501892-av0vaaiq8sg9givf3ivsuef7gnclamo8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "129636501892-cdm1pmlo25th3lt4he4c820opsqug5qc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jos.signingoogle",
+            "certificate_hash": "81baa44a3c5fe9c06e02d6fb26878c614996a1c6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwVYW7T8z5oggwu-nhtC3x0eZ-wpGhSHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
